@@ -1,0 +1,25 @@
+law,theme,matches,per_10k_words,lgaas_matches,lgaas_per_10k,ratio_to_lgaas,g2,p_value,p_bonferroni,direction
+Colima,Agroecology,9,7,2,1.6,4.38,4.75,0.029,0.35,No clear difference
+Colima,Breastfeeding and early childhood,13,10.1,9,7,1.44,0.69,0.41,1,No clear difference
+Colima,Climate change and disasters,8,6.2,0,0,Inf,11.02,9e-4,0.011,More than LGAAS
+Colima,Conflict of interest,2,1.6,5,3.9,0.41,1.36,0.24,1,No clear difference
+Colima,Environmental impact,12,9.3,1,0.8,11.62,10.87,9.8e-4,0.012,More than LGAAS
+Colima,"Food donation, loss and waste",15,11.6,8,6.3,1.84,2.1,0.15,1,No clear difference
+Colima,Food sovereignty and self-sufficiency,9,7,10,7.8,0.9,0.06,0.81,1,No clear difference
+Colima,Labeling and GMOs,8,6.2,5,3.9,1.59,0.67,0.41,1,No clear difference
+Colima,Legumes and plant-based food,7,5.4,4,3.1,1.74,0.8,0.37,1,No clear difference
+Colima,Public procurement and local producers,15,11.6,14,11,1.05,0.03,0.86,1,No clear difference
+Colima,Sustainability,50,38.8,22,17.2,2.26,10.92,9.5e-4,0.011,More than LGAAS
+Colima,Water and watersheds,18,14,10,7.8,1.79,2.24,0.13,1,No clear difference
+Sonora,Agroecology,2,1.5,2,1.6,0.94,0,1,1,No clear difference
+Sonora,Breastfeeding and early childhood,9,6.6,9,7,0.94,0.02,0.89,1,No clear difference
+Sonora,Climate change and disasters,0,0,0,0,NA,0,1,1,No clear difference
+Sonora,Conflict of interest,5,3.7,5,3.9,0.95,0.01,0.92,1,No clear difference
+Sonora,Environmental impact,1,0.7,1,0.8,0.87,0,1,1,No clear difference
+Sonora,"Food donation, loss and waste",56,41.1,8,6.3,6.52,37.48,9.2e-10,1.1e-8,More than LGAAS
+Sonora,Food sovereignty and self-sufficiency,10,7.3,10,7.8,0.94,0.02,0.89,1,No clear difference
+Sonora,Labeling and GMOs,5,3.7,5,3.9,0.95,0.01,0.92,1,No clear difference
+Sonora,Legumes and plant-based food,4,2.9,4,3.1,0.94,0.01,0.92,1,No clear difference
+Sonora,Public procurement and local producers,14,10.3,14,11,0.94,0.03,0.86,1,No clear difference
+Sonora,Sustainability,22,16.2,22,17.2,0.94,0.05,0.82,1,No clear difference
+Sonora,Water and watersheds,10,7.3,10,7.8,0.94,0.02,0.89,1,No clear difference

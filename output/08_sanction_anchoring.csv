@@ -1,0 +1,25 @@
+law,group,lgaas_article,state_equivalent,cosine,sanctioned_in_state,lgaas_text_start
+Colima,A,3,3,0.84,TRUE,"Todas las personas, de manera individual o colectiva, tienen derecho a una alimentación adecuada en todo mo..."
+Colima,A,9,9,0.85,TRUE,"El Estado establecerá las medidas para el abasto de alimentos adecuados, para las personas que se encuentre..."
+Colima,A,11,12,0.5,TRUE,"Queda prohibido que las personas servidoras públicas, en el desempeño de las funciones a las que se refiere..."
+Colima,A,13,61,0.41,FALSE,"Se promoverá el acceso al agua inocua, a productores agrícolas de pequeña y mediana escala, cuya obligación..."
+Colima,A,21,27,0.55,FALSE,"Las personas productoras y distribuidoras de alimentos procesados deberán advertir, además de los elementos..."
+Colima,A,27,33,0.78,TRUE,"Los gobiernos de la Federación, de las entidades federativas, así como de los municipios y demarcaciones te..."
+Colima,A,38,45,0.83,TRUE,"Las dependencias y entidades que integran la Administración Pública Federal, entidades federativas, municip..."
+Colima,A,107,111,0.9,FALSE,Las infracciones administrativas a que se refiere este título o cualquier otra derivada del incumplimiento ...
+Colima,B,22,28,0.89,TRUE,"Las personas productoras y distribuidoras de alimentos deberán proveer, en los términos que establezca el R..."
+Colima,B,24,30,0.94,TRUE,La Secretaría de Salud sugerirá el contenido de las canastas normativas en las entidades federativas acorde...
+Colima,B,29,36,0.76,TRUE,"Para fomentar el consumo de alimentos sanos, las autoridades sanitarias deberán verificar que los estableci..."
+Colima,B,35,42,1,TRUE,"Se declarará ilegal, y por tanto nulo, todo acuerdo, procedimiento o acción combinada entre dos o más agent..."
+Sonora,A,3,3,1,TRUE,"Todas las personas, de manera individual o colectiva, tienen derecho a una alimentación adecuada en todo mo..."
+Sonora,A,9,9,1,FALSE,"El Estado establecerá las medidas para el abasto de alimentos adecuados, para las personas que se encuentre..."
+Sonora,A,11,11,0.93,TRUE,"Queda prohibido que las personas servidoras públicas, en el desempeño de las funciones a las que se refiere..."
+Sonora,A,13,13,0.88,FALSE,"Se promoverá el acceso al agua inocua, a productores agrícolas de pequeña y mediana escala, cuya obligación..."
+Sonora,A,21,21,1,FALSE,"Las personas productoras y distribuidoras de alimentos procesados deberán advertir, además de los elementos..."
+Sonora,A,27,27,0.85,FALSE,"Los gobiernos de la Federación, de las entidades federativas, así como de los municipios y demarcaciones te..."
+Sonora,A,38,38,0.94,FALSE,"Las dependencias y entidades que integran la Administración Pública Federal, entidades federativas, municip..."
+Sonora,A,107,117,0.85,FALSE,Las infracciones administrativas a que se refiere este título o cualquier otra derivada del incumplimiento ...
+Sonora,B,22,22,0.75,TRUE,"Las personas productoras y distribuidoras de alimentos deberán proveer, en los términos que establezca el R..."
+Sonora,B,24,24,0.97,FALSE,La Secretaría de Salud sugerirá el contenido de las canastas normativas en las entidades federativas acorde...
+Sonora,B,29,29,1,FALSE,"Para fomentar el consumo de alimentos sanos, las autoridades sanitarias deberán verificar que los estableci..."
+Sonora,B,35,35,1,TRUE,"Se declarará ilegal, y por tanto nulo, todo acuerdo, procedimiento o acción combinada entre dos o más agent..."

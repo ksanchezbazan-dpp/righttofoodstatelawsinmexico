@@ -1,0 +1,54 @@
+feature,law,value,article,evidence,absent_if,evidence_found,absence_holds
+System that groups all bodies,LGAAS,SINSAMAC (national system),56,se crea el sinsamac,NA,TRUE,TRUE
+System that groups all bodies,Colima,None; a single state council (CIE),67,el cie sera presidido,se crea el s,TRUE,TRUE
+System that groups all bodies,Sonora,SIESAMAC (state system),69,se crea el siesamac,NA,TRUE,TRUE
+Who chairs the council,LGAAS,President; may delegate to Health Ministry,60,podra delegar esta funcion en la direccion,NA,TRUE,TRUE
+Who chairs the council,Colima,Governor; no delegation clause,69,fungira en la presidencia,NA,TRUE,TRUE
+Who chairs the council,Sonora,Governor; may delegate to State Health Ministry,73,podra delegar esta funcion en la direccion,NA,TRUE,TRUE
+Government bodies on the council,LGAAS,15,61,consejo nacional de humanidades,NA,TRUE,TRUE
+Government bodies on the council,Colima,13 (incl. 3 federal health institutions),69,subdelegacion medica,NA,TRUE,TRUE
+Government bodies on the council,Sonora,9,74,secretaria de hacienda,NA,TRUE,TRUE
+Finance ministry on the council,LGAAS,Yes,61,hacienda y credito publico,NA,TRUE,TRUE
+Finance ministry on the council,Colima,Yes,69,planeacion finanzas y administracion,NA,TRUE,TRUE
+Finance ministry on the council,Sonora,Yes,74,secretaria de hacienda,NA,TRUE,TRUE
+Environment agency on the council,LGAAS,Yes (SEMARNAT),61,medio ambiente y recursos naturales,NA,TRUE,TRUE
+Environment agency on the council,Colima,Yes (IMADES),69,el imades,NA,TRUE,TRUE
+Environment agency on the council,Sonora,No,74,secretaria de hacienda,ARTICLE:ecologia|medio ambiente|sustentable|cedes,TRUE,TRUE
+Civil society and academia,LGAAS,Permanent representatives,61,contara de manera permanente con representantes del sector social,NA,TRUE,TRUE
+Civil society and academia,Colima,Permanent invitees (art. 69; art. 67 also names them as members),69,seran invitados permanentes del consejo,NA,TRUE,TRUE
+Civil society and academia,Sonora,Permanent representatives,74,contara de manera permanente con representantes del sector social,NA,TRUE,TRUE
+Executive body,LGAAS,Board of Directors,62,nombrar a una junta directiva,NA,TRUE,TRUE
+Executive body,Colima,Technical Committee,71,nombrar a un comite tecnico,NA,TRUE,TRUE
+Executive body,Sonora,Board of Directors,75,nombrar a una junta directiva,NA,TRUE,TRUE
+Working commissions,LGAAS,At least 2,69,por lo menos con las siguientes comisiones,NA,TRUE,TRUE
+Working commissions,Colima,None,71,comite tecnico,comisiones de trabajo,TRUE,TRUE
+Working commissions,Sonora,At least 2,82,por lo menos con las siguientes comisiones,NA,TRUE,TRUE
+Conflict-of-interest committee,LGAAS,Yes,70,comite de prevencion de conflicto de interes,NA,TRUE,TRUE
+Conflict-of-interest committee,Colima,No,80,avalados por el cie,comite de prevencion,TRUE,TRUE
+Conflict-of-interest committee,Sonora,Yes,83,comite de prevencion de conflicto de interes,NA,TRUE,TRUE
+Who vets citizen food committees,LGAAS,Conflict-of-interest committee,77,avalados por el comite de prevencion,NA,TRUE,TRUE
+Who vets citizen food committees,Colima,State council (CIE); wording also mentions municipal councils,80,avalados por el cie,NA,TRUE,TRUE
+Who vets citizen food committees,Sonora,State conflict-of-interest committee,88,avalados por el comite de prevencion,NA,TRUE,TRUE
+Members paid?,LGAAS,No (honorary),59,honorifica,NA,TRUE,TRUE
+Members paid?,Colima,No (honorary),68,honorificos,NA,TRUE,TRUE
+Members paid?,Sonora,"No (honorary, incl. Technical Secretariat)",72,incluyendo el secretariado tecnico es honorifica,NA,TRUE,TRUE
+Minimum council meetings per year,LGAAS,2,64,por lo menos dos veces al ano,NA,TRUE,TRUE
+Minimum council meetings per year,Colima,2,72,por lo menos dos veces al ano,NA,TRUE,TRUE
+Minimum council meetings per year,Sonora,2,77,por lo menos dos veces al ano,NA,TRUE,TRUE
+Municipal councils: membership guidelines,LGAAS,Set by SINSAMAC,73,lineamientos que determine el sinsamac,NA,TRUE,TRUE
+Municipal councils: membership guidelines,Colima,"Set by each municipality; non-official members need knowledge, experience or training",75,lineamientos que determinen los mismos municipios,NA,TRUE,TRUE
+Municipal councils: membership guidelines,Sonora,Set by National System,84,lineamientos que determine el sistema nacional,NA,TRUE,TRUE
+Municipal councils: minimum meetings,LGAAS,Not set,"73,74",consejo de alimentacion municipal,ARTICLE:veces al ano,TRUE,TRUE
+Municipal councils: minimum meetings,Colima,3 per year,77,tres veces al ano,NA,TRUE,TRUE
+Municipal councils: minimum meetings,Sonora,Not set,"84,85",consejo de alimentacion municipal,ARTICLE:veces al ano,TRUE,TRUE
+Food committee leaders sit on municipal council,LGAAS,Yes,73,presidentes de dichos comites deberan ser parte,NA,TRUE,TRUE
+Food committee leaders sit on municipal council,Colima,Not specified,75,consejo intersectorial municipal,presidentes de dichos comites,TRUE,TRUE
+Food committee leaders sit on municipal council,Sonora,Yes,84,presidentes de dichos comites deberan ser parte,NA,TRUE,TRUE
+Members trained to form a food committee,LGAAS,1,78,al menos uno de sus miembros,NA,TRUE,TRUE
+Members trained to form a food committee,Colima,2,81,al menos dos de sus miembros,NA,TRUE,TRUE
+Members trained to form a food committee,Sonora,1,89,al menos uno de sus miembros,NA,TRUE,TRUE
+Depends on federal bodies to operate,Colima,Strategy proposed 'before the SINSAMAC'; emergency requests to its Board,"95,104",ante el sinsamac,NA,TRUE,TRUE
+Depends on federal bodies to operate,Sonora,Municipal councils follow National System guidelines,84,lineamientos que determine el sistema nacional,NA,TRUE,TRUE
+Monitoring sources named in the law,LGAAS,Not specified,88,indicadores de impacto,ensanut,TRUE,TRUE
+Monitoring sources named in the law,Colima,ENSANUT survey; soil and water use; food loss at wholesale market,74,ensanut,NA,TRUE,TRUE
+Monitoring sources named in the law,Sonora,Food loss and waste information system,57,sistema de informacion sobre la perdida,NA,TRUE,TRUE
